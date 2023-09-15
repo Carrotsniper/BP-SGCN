@@ -5,5 +5,7 @@ To test the performance on Heterogeneous SDD datasets,
 simply run 
 
 ```console
+cd Heterogeneous_SDD
+
 python test.py
 ```
