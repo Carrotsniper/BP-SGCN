@@ -13,9 +13,12 @@ The architecture of our BP-SGCN trajectory prediction model
 
 
 
-To test the performance on Heterogeneous SDD datasets,
-simply run.
-
+To test the performance on Heterogeneous SDD datasets.
+First, install required environment
+```console
+conda env create -n env_name -f environment.yaml
+```
+Then,
 ```console
 cd Heterogeneous_SDD
 
