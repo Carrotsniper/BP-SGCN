@@ -8,9 +8,9 @@ This repository contains the official implementation of  **BP-SGCN: Behavioral P
 - We propose a pseudo-label informed goal-guided trajectory prediction module, which facilitates end-to-end fine-tuning with its prediction loss for better clustering and prediction, outperforming existing pedestrian and heterogeneous prediction methods.
 
 ## Our model
-Architecture of our BP-SGCN trajectory prediction model
+The architecture of our BP-SGCN trajectory prediction model
+![image](https://github.com/Carrotsniper/BP-SGCN/blob/main/Heterogeneous_SDD/overview.png)
 
-![image]([https://github.com/Petrichor625/BATraj-Behavior-aware-Model/blob/main/Figures/Framework3.png](https://github.com/Carrotsniper/BP-SGCN/blob/main/Heterogeneous_SDD/overview.PNG))
 
 
 To test the performance on Heterogeneous SDD datasets,
