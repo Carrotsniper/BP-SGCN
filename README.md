@@ -9,6 +9,6 @@ This repository contains the official implementation of  **BP-SGCN: Behavioral P
 
 ## Our model
 The architecture of our BP-SGCN trajectory prediction model
-![image](https://github.com/Carrotsniper/BP-SGCN/blob/main/overview.png)
+![image](https://github.com/Carrotsniper/BP-SGCN/blob/master/overview.png)
 
 The code is undergoing processing and will be available soon. 
