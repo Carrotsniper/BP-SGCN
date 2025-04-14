@@ -1,3 +1,4 @@
+[![GitHub license](https://img.shields.io/github/license/Carrotsniper/BP-SGCN)](https://github.com/Carrotsniper/BP-SGCN/blob/main/LICENSE)
 ## BP-SGCN: Behavioral Pseudo-Label Informed Sparse Graph Convolution Network for Pedestrian and Heterogeneous Trajectory Prediction
 
 This is the official implementation of our paper **BP-SGCN** [https://arxiv.org/abs/2502.14676](https://arxiv.org/abs/2502.14676).
